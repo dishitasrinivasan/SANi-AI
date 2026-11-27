@@ -1,0 +1,6 @@
+{
+  "name": "SANI-AI",
+  "description": "Intelligent AI-based multi-agent sewage management, blockage detection, overflow prediction, and human safety monitoring prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
